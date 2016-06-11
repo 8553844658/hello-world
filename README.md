@@ -1,5 +1,8 @@
 # hello-world
 my first repository
 
-hi humans....
-myself world...the shelter for species
+hi everyone...
+myself sonu tamang.
+this is my first repository
+thank you
+
